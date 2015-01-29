@@ -1,7 +1,7 @@
 #slim-jsonAPI
-[![Latest Stable Version](https://poser.pugx.org/entomb/slim-json-api/v/stable.png)](https://packagist.org/packages/entomb/slim-json-api)
-[![Total Downloads](https://poser.pugx.org/entomb/slim-json-api/downloads.png)](https://packagist.org/packages/entomb/slim-json-api)
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/entomb/slim-json-api/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Latest Stable Version](https://poser.pugx.org/jayc89/slim-json-api/v/stable.png)](https://packagist.org/packages/jayc89/slim-json-api)
+[![Total Downloads](https://poser.pugx.org/jayc89/slim-json-api/downloads.png)](https://packagist.org/packages/jayc89/slim-json-api)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jayc89/slim-json-api/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 This is an extension to the [SLIM framework](https://github.com/codeguy/Slim) to implement json API's with great ease.
 
@@ -11,8 +11,8 @@ Using composer you can add use this as your composer.json
 ```json
     {
         "require": {
-            "slim/slim": "2.3.*",
-            "entomb/slim-json-api": "dev-master"
+            "slim/slim": "2.*",
+            "jayc89/slim-json-api": "dev-master"
         }
     }
 

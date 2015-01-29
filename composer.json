@@ -1,16 +1,22 @@
 {
-    "name": "entomb/slim-json-api",
+    "name": "jayc8/slim-json-api",
     "type": "library",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Slim extension to implement fast JSON API's",
     "keywords": ["slim","json","API","view", "middleware"],
-    "homepage": "https://github.com/entomb/slim-json-api",
+    "homepage": "https://github.com/jayc8/slim-json-api",
     "license": "GPL 3.0",
     "authors": [
         {
             "name": "Jonathan Tavares",
             "email": "the.entomb@gmail.com",
             "homepage": "https://github.com/entomb",
+            "role": "Developer"
+        },
+        {
+            "name": "Jamie Cressey",
+            "email": "jamiecressey8@gmail.com",
+            "homepage": "https://github.com/jayc89",
             "role": "Developer"
         }
     ],
